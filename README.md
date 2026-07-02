@@ -1,6 +1,6 @@
 # Strawberry Badge
 
-A little strawberry themed badge, with a microntroller to control a bunch of leds.
+A little strawberry themed badge, with a microntroller to control a bunch of LEDs. Twenty LEDs controlled by 5 GPIOs, what can go wrong? 
 
 ## BOM
 
